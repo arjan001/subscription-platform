@@ -13,5 +13,7 @@ class WebsiteSeeder extends Seeder
     {
         Website::create(['name' => 'Tech Blog', 'url' => 'https://techblog.com']);
         Website::create(['name' => 'News Hub', 'url' => 'https://newshub.com']);
+
+        Website::create(['name' => 'ini sev saas', 'url' => 'https://inisev.com/']);
     }
 }
