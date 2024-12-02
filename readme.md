@@ -1,4 +1,3 @@
-Here's the information converted into a single document for your Laravel `README.md` file:
 
 ```markdown
 # Subscription Platform - Laravel API
